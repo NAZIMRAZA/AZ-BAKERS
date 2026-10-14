@@ -1,0 +1,1 @@
+import type{Metadata}from"next";import{AdminPage}from"@/components/admin";export const metadata:Metadata={title:"Bakery desk",robots:{index:false,follow:false}};export default function Page(){return <AdminPage/>}

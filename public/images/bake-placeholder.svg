@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="AZ Bakers illustrated cake placeholder">
+  <rect width="800" height="600" fill="#f1e6d7"/>
+  <circle cx="655" cy="130" r="92" fill="#edce91" opacity=".75"/>
+  <path d="M0 430c155-55 224 57 380 4s272-49 420 4v162H0z" fill="#e2d3c1"/>
+  <ellipse cx="406" cy="442" rx="228" ry="40" fill="#9d725b" opacity=".2"/>
+  <path d="M234 300q0-26 27-26h292q27 0 27 26v120q0 35-35 35H269q-35 0-35-35z" fill="#fffaf1" stroke="#815b49" stroke-width="10"/>
+  <path d="M234 324h346M246 356q20-24 39 0t39 0 39 0 39 0 39 0 39 0 39 0 39 0 39 0" fill="none" stroke="#df8b75" stroke-width="12" stroke-linecap="round"/>
+  <path d="M207 297q0-19 26-19h326q26 0 26 19t-26 18H233q-26 0-26-18" fill="#f2d29d" stroke="#815b49" stroke-width="9"/>
+  <path d="M404 210v66" stroke="#815b49" stroke-width="10" stroke-linecap="round"/>
+  <path d="M404 203c-34-30 2-58 0-82 37 28 28 53 0 82" fill="#df8b75"/>
+  <path d="M401 376c0-26 38-26 38 0 0 18-19 28-19 28s-19-10-19-28" fill="#d87364"/>
+  <text x="400" y="520" text-anchor="middle" fill="#51372e" font-family="Georgia,serif" font-size="27">AZ BAKERS · FRESH FROM OUR OVEN</text>
+</svg>

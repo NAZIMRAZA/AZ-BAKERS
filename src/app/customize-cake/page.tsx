@@ -1,0 +1,1 @@
+import type{Metadata}from"next";import{CustomizerPage}from"@/components/store";export const metadata:Metadata={title:"Make your cake",description:"Dream up a cake of your own: choose the size, sponge, filling and finishing touches."};export default function Page(){return <CustomizerPage/>}

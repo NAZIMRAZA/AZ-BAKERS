@@ -1,0 +1,1 @@
+import type{Metadata}from"next";import{ShopPage}from"@/components/store";export const metadata:Metadata={title:"The bakery",description:"Explore small-batch cakes, pastries, cookies, and fresh bread."};export default function Page(){return <ShopPage/>}
